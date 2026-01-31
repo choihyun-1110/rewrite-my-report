@@ -2,6 +2,8 @@
 
 **PDF 보고서를 포트폴리오용 마크다운으로 바꾸고, Notion에 한 번에 저장하는 에이전트**
 
+<p align="center"><img src="대표이미지.jpg" width="720" alt="대표 이미지" /></p>
+
 과제/실험 보고서 PDF를 업로드하면, 채용·포트폴리오용 구조(Title, One-line Summary, What I Built, Key Results, Representative Visuals, Tech Stack 등)로 재작성하고, 웹 미리보기와 Notion DB 저장까지 한 번에 처리합니다.
 
 ---
