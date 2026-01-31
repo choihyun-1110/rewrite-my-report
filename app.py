@@ -1,4 +1,4 @@
-"""Streamlit 웹 UI - ui_copy.md 기반"""
+"""Streamlit 웹 UI — PDF 업로드, 변환, 미리보기, Notion 저장"""
 import streamlit as st
 import os
 import json
@@ -150,7 +150,7 @@ def main():
                         os.unlink(tmp_path)
     
     else:
-        # 결과 화면 (ui_copy.md 기반)
+        # 결과 화면
         result = st.session_state.result
         
         # 1. Hero Section

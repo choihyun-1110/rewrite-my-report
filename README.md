@@ -39,8 +39,8 @@
 ### 1. 저장소 클론 및 의존성 설치
 
 ```bash
-git clone https://github.com/choihyun-1110/portfolio-migration-agent.git
-cd portfolio-migration-agent
+git clone https://github.com/choihyun-1110/rewrite-my-report.git
+cd rewrite-my-report
 pip install -r requirements.txt
 ```
 
@@ -120,7 +120,7 @@ python pipeline.py input/your_report.pdf
 ## GitHub에 새 레포로 올리기
 
 1. **GitHub에서 새 저장소 생성**  
-   [New repository](https://github.com/new) → 이름 예: `portfolio-migration-agent` → Create repository (README 추가 안 해도 됨).
+   [New repository](https://github.com/new) → 이름 예: `rewrite-my-report` → Create repository (README 추가 안 해도 됨).
 
 2. **로컬에서 git 초기화 및 푸시** (이미 git이 있으면 2번째 줄부터만):
 
@@ -130,11 +130,11 @@ python pipeline.py input/your_report.pdf
    git add .
    git commit -m "Initial commit: Portfolio Migration Agent"
    git branch -M main
-   git remote add origin https://github.com/choihyun-1110/portfolio-migration-agent.git
+   git remote add origin https://github.com/choihyun-1110/rewrite-my-report.git
    git push -u origin main
    ```
 
-   레포 이름을 다르게 만들었다면 `portfolio-migration-agent` 부분만 본인 레포 이름으로 바꾸면 됩니다.
+   레포 이름을 다르게 만들었다면 `rewrite-my-report` 부분만 본인 레포 이름으로 바꾸면 됩니다.
 
 3. **데모 영상**  
    `데모영상.mp4`를 커밋에 포함해 두었으면, README의 [데모영상.mp4](데모영상.mp4) 링크로 재생/다운로드 가능합니다. (용량이 크면 [Releases](https://docs.github.com/en/repositories/releasing-projects-on-github)에 올리고 링크만 바꿔도 됩니다.)
