@@ -8,7 +8,7 @@
 
 ## 데모
 
-- **[데모영상.mp4](데모영상.mp4)** — PDF 업로드 → 변환 → 미리보기 → Notion 저장 흐름 (클릭하여 재생/다운로드)
+- **[데모영상 보기](https://github.com/choihyun-1110/rewrite-my-report/raw/main/%EB%8D%B0%EB%AA%A8%EC%98%81%EC%83%81.mp4)** — PDF 업로드 → 변환 → 미리보기 → Notion 저장 흐름 (클릭 시 브라우저에서 바로 재생)
 
 ---
 
