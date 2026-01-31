@@ -1,0 +1,7 @@
+requests>=2.31.0
+python-dotenv>=1.0.0
+streamlit>=1.28.0
+notion-client>=2.2.1
+
+# 설치 방법:
+# pip install -r requirements.txt
